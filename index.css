@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.font{ 
+    margin:0 auto;
+    width:90px;
+    line-height:94px;
+    font-size: 90px;
+} 
